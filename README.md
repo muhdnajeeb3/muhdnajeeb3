@@ -23,9 +23,9 @@ I'm a Full Stack Web Developer with **5+ years of experience** building scalable
 
 - ⚛️ Specialized in React.js, Next.js and TypeScript.
 - 🛠️ Experienced in Node.js, NestJS, Express.js and REST APIs.
-- 🏗️ Interested in frontend architecture and scalable application design.
+- 🏗️ Strong focus on frontend architecture, reusable components and complex UI workflows.
 - ☁️ Hands-on experience with AWS, Docker, Kubernetes and CI/CD.
-- 🧪 Working with Jest, Vitest and Playwright.
+- 🧪 Experience with Jest, Vitest and basic Playwright E2E testing.
 - 🤖 Currently exploring Generative AI, RAG and AI automation.
 
 ---
@@ -67,7 +67,7 @@ I'm a Full Stack Web Developer with **5+ years of experience** building scalable
 ### Testing & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=jest,cypress,vitest,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=jest,cypress,postman,vscode" />
 </p>
 
 ---
@@ -93,37 +93,11 @@ I'm a Full Stack Web Developer with **5+ years of experience** building scalable
 
 ### 🎓 UniAthena — Learning Management System
 
-- Contributed to a learning platform serving 3M+ learners.
+- Contributed to an LMS serving 3M+ learners.
 - Developed course management, assignments, quizzes and certifications.
 - Built responsive interfaces and video-streaming features.
 
 **Tech:** React.js · Redux · Video Streaming
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhdnajeeb3&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhdnajeeb3&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="75%" src="https://streak-stats.demolab.com?user=muhdnajeeb3&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/muhdnajeeb3/muhdnajeeb3/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/muhdnajeeb3/muhdnajeeb3/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
 
 ---
 
@@ -147,4 +121,3 @@ I'm always open to connecting with developers, collaborating on interesting proj
 [![Email](https://img.shields.io/badge/Email-muhdnajeeb3%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:muhdnajeeb3@gmail.com)
 
 </div>
-
